@@ -1,0 +1,14 @@
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\bin\Debug\net6.0\Logic.exe
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\bin\Debug\net6.0\Logic.runtimeconfig.json
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\Logic.genruntimeconfig.cache
+C:\Users\user\Documents\C#\XA-340\Logic\Logic\obj\Debug\net6.0\ref\Logic.dll
